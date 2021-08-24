@@ -1,0 +1,7 @@
+delete http://localhost:3000/movies/3/
+
+###
+
+get http://localhost:3000/movies/
+
+###
